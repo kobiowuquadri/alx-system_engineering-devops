@@ -1,0 +1,2 @@
+#!/bin/bassh
+ln -s /bin/ls ls
